@@ -33,3 +33,26 @@ function alertValues() {
 }
 alertValues();
 
+function alertValues() {
+    console.log('1');
+    console.log('2');
+    console.log('3');
+
+
+}
+alertValues();function alertValues() {
+    console.log('1');
+    console.log('2');
+    console.log('3');
+
+
+}
+alertValues();function alertValues() {
+    console.log('1');
+    console.log('2');
+    console.log('3');
+
+
+}
+alertValues();
+

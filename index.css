@@ -15,5 +15,8 @@
         padding: 10px;
     
 
-    }    
+    } 
+    .my-class {
+        border-radius: 0%;
+    }   
     
