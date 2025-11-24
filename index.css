@@ -1,0 +1,19 @@
+    #avatar-wrapper {
+        margin: 20px;
+    }    
+    #hobbies {
+        resize: none;
+        
+
+    }
+    #technologies-list {
+        background-color: aquamarine;
+        max-width: 300px;
+        width: 300px;
+        word-break:break-all;
+        margin: 20px;
+        padding: 10px;
+    
+
+    }    
+    
